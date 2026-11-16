@@ -1,0 +1,638 @@
+RegionID,RegionName,CountyName,Metro,Year,Population,ZHVI
+16688,Adrian,Bates County,"Kansas City, MO-KS",2025,1798,247548.9626603376
+42050,Advance,Stoddard County,Non-Metro / Rural,2025,1323,144804.40251475738
+21700,Agency,Buchanan County,"St. Joseph, MO-KS",2025,651,313405.08736429544
+171534,Airport Drive,Jasper County,"Joplin, MO",2025,822,265428.8201689247
+30148,Albany,Gentry County,Non-Metro / Rural,2025,1730,125636.5332983556
+30174,Alma,Lafayette County,"Kansas City, MO-KS",2025,392,204212.94260863928
+55642,Altamont,Daviess County,Non-Metro / Rural,2025,172,255479.65079970806
+10102,Altenburg,Cape Girardeau County,"Cape Girardeau, MO-IL",2025,324,215337.6288746579
+37108,Alton,Oregon County,Non-Metro / Rural,2025,702,167076.26867952917
+37122,Amazonia,Andrew County,"St. Joseph, MO-KS",2025,244,195275.58429961427
+50728,Anderson,McDonald County,Non-Metro / Rural,2025,2073,165416.17963332898
+43903,Annada,Pike County,Non-Metro / Rural,2025,13,102949.34053963951
+10143,Annapolis,Iron County,Non-Metro / Rural,2025,239,152763.69646427687
+28151,Appleton City,Saint Clair County,"Kansas City, MO-KS",2025,1096,182556.30378366538
+35039,Arbyrd,Dunklin County,"Kennett, MO",2025,387,68081.08263288713
+23510,Arcadia,Iron County,Non-Metro / Rural,2025,605,187882.83905132915
+10161,Archie,Cass County,"Kansas City, MO-KS",2025,1305,296533.74925141525
+37163,Arcola,Dade County,Non-Metro / Rural,2025,39,216988.6055086952
+37168,Argyle,Maries County,"Jefferson City, MO",2025,145,224407.45520101115
+48709,Armstrong,Howard County,"Columbia, MO",2025,241,201369.6394199124
+16807,Arnold,Jefferson County,"St. Louis, MO-IL",2025,20994,262582.4149679127
+37189,Asbury,Barton County,"Joplin, MO",2025,195,246680.23567608392
+50775,Ash Grove,Greene County,"Springfield, MO",2025,1532,253263.29898640956
+43958,Ashland,Boone County,"Columbia, MO",2025,5221,356313.0079408688
+43975,Atlanta,Macon County,Non-Metro / Rural,2025,370,218784.12291037248
+43988,Augusta,Saint Charles County,"St. Louis, MO-IL",2025,265,543502.6605046031
+10216,Aurora,Barry County,Non-Metro / Rural,2025,7686,171808.76922134377
+37231,Auxvasse,Callaway County,"Jefferson City, MO",2025,1029,300556.44461874844
+23556,Ava,Douglas County,Non-Metro / Rural,2025,3231,213376.1275312725
+50818,Avondale,Clay County,"Kansas City, MO-KS",2025,430,183369.72413767467
+30338,Ballwin,Saint Louis County,"St. Louis, MO-IL",2025,30901,400980.45820574625
+23598,Barnett,Morgan County,Non-Metro / Rural,2025,165,284439.543005675
+16912,Bates City,Lafayette County,"Kansas City, MO-KS",2025,227,347861.5899368545
+35229,Battlefield,Greene County,"Springfield, MO",2025,6361,296644.8462222761
+171753,Bel-Nor,Saint Louis County,"St. Louis, MO-IL",2025,1351,215681.4039619424
+171754,Bel-Ridge,Saint Louis County,"St. Louis, MO-IL",2025,2070,76119.51467048588
+10327,Bella Villa,Saint Louis County,"St. Louis, MO-IL",2025,723,190791.6933922819
+16963,Belle,Maries County,"Jefferson City, MO",2025,1379,199385.03275783864
+3612,Bellefontaine Neighbors,Saint Louis County,"St. Louis, MO-IL",2025,10368,106356.38102806872
+44124,Belton,Cass County,"Kansas City, MO-KS",2025,26193,257546.96861716316
+48968,Benton,Scott County,"Sikeston, MO",2025,919,205661.36664142486
+57125,Berger,Franklin County,"St. Louis, MO-IL",2025,271,278264.7563637909
+10368,Berkeley,Saint Louis County,"St. Louis, MO-IL",2025,8026,91892.24433866628
+10377,Bernie,Stoddard County,"Kennett, MO",2025,1828,111884.28337801398
+37401,Bertrand,Mississippi County,"Sikeston, MO",2025,698,127978.41353833686
+23687,Bethany,Harrison County,Non-Metro / Rural,2025,2956,128397.26721139891
+21765,Bethel,Shelby County,Non-Metro / Rural,2025,126,227386.90947292486
+55302,Beverly Hills,Saint Louis County,"St. Louis, MO-IL",2025,456,65532.61583699767
+3661,Bevier,Macon County,Non-Metro / Rural,2025,625,171161.29931218873
+17031,Billings,Christian County,"Springfield, MO",2025,1182,312980.07864922314
+14789,Birch Tree,Shannon County,Non-Metro / Rural,2025,561,165619.0793539747
+44179,Birmingham,Clay County,"Kansas City, MO-KS",2025,187,187509.3553215187
+23718,Bismarck,Saint Francois County,"Farmington, MO",2025,1224,149001.2777372993
+29770,Black Jack,Saint Louis County,"St. Louis, MO-IL",2025,6547,214957.6213311702
+23723,Blackwater,Cooper County,"Columbia, MO",2025,192,265211.5642032269
+3697,Bland,Gasconade County,"Jefferson City, MO",2025,505,224420.7108728678
+50397,Bloomfield,Stoddard County,Non-Metro / Rural,2025,1734,151256.9675166577
+21477,Bloomsdale,Sainte Genevieve County,Non-Metro / Rural,2025,683,275029.48042928503
+35042,Blue Eye,Stone County,Non-Metro / Rural,2025,310,382961.531387292
+37464,Blue Springs,Jackson County,"Kansas City, MO-KS",2025,61632,302848.2762338013
+44242,Bogard,Carroll County,Non-Metro / Rural,2025,162,261318.72001720205
+51074,Bolckow,Andrew County,"St. Joseph, MO-KS",2025,164,255486.46336084747
+51075,Bolivar,Polk County,"Springfield, MO",2025,11994,253680.37606328144
+36810,Bonne Terre,Saint Francois County,"Farmington, MO",2025,6636,200045.10064501924
+17118,Boonville,Cooper County,"Columbia, MO",2025,7867,190396.2401069817
+30540,Bosworth,Carroll County,Non-Metro / Rural,2025,208,199416.44598678793
+3766,Bourbon,Crawford County,Non-Metro / Rural,2025,1544,153356.72854659654
+3769,Bowling Green,Pike County,Non-Metro / Rural,2025,4472,212564.04063895217
+3788,Branson,Taney County,"Branson, MO",2025,12921,248325.73477467077
+14910,Branson West,Stone County,Non-Metro / Rural,2025,485,394102.6394117638
+51123,Brashear,Adair County,"Kirksville, MO",2025,240,221366.99637465054
+3791,Braymer,Caldwell County,"Kansas City, MO-KS",2025,756,183678.4835693686
+23813,Breckenridge,Caldwell County,"Kansas City, MO-KS",2025,250,174119.01056545798
+21590,Breckenridge Hills,Saint Louis County,"St. Louis, MO-IL",2025,4350,117537.83938677811
+41969,Brentwood,Saint Louis County,"St. Louis, MO-IL",2025,8079,262290.75087762
+44306,Bridgeton,Saint Louis County,"St. Louis, MO-IL",2025,11277,268895.23688442196
+17186,Brookfield,Linn County,Non-Metro / Rural,2025,4083,120705.40228669073
+17198,Browning,Linn County,Non-Metro / Rural,2025,216,160910.05227563973
+51172,Brumley,Miller County,Non-Metro / Rural,2025,72,206617.1322119029
+30639,Bucklin,Linn County,Non-Metro / Rural,2025,410,143231.90420730098
+3874,Buckner,Jackson County,"Kansas City, MO-KS",2025,2891,200428.63951550712
+23875,Buffalo,Dallas County,"Springfield, MO",2025,3550,203276.39861149326
+21693,Bunceton,Cooper County,"Columbia, MO",2025,338,266848.1608148312
+10618,Bunker,Shannon County,Non-Metro / Rural,2025,297,164247.63386162632
+30676,Butler,Bates County,"Kansas City, MO-KS",2025,4317,166616.7852921744
+172041,Byrnes Mill,Jefferson County,"St. Louis, MO-IL",2025,3183,342399.55731477804
+15063,Cabool,Texas County,Non-Metro / Rural,2025,2089,186307.5077130711
+8345,Cainsville,Mercer County,Non-Metro / Rural,2025,285,147299.81412765276
+17257,Cairo,Randolph County,"Moberly, MO",2025,203,246868.31049613378
+3927,Caledonia,Washington County,Non-Metro / Rural,2025,134,205607.1933381285
+30693,Calhoun,Henry County,Non-Metro / Rural,2025,406,237449.16642001507
+51231,California,Moniteau County,"Jefferson City, MO",2025,4523,236328.38500036564
+30697,Callao,Macon County,"Moberly, MO",2025,245,217794.0033508466
+42116,Calverton Park,Saint Louis County,"St. Louis, MO-IL",2025,1134,106112.9536753989
+50349,Camden Point,Platte County,"Kansas City, MO-KS",2025,474,333277.7228954259
+44417,Camdenton,Camden County,Non-Metro / Rural,2025,4050,316798.16765054996
+3940,Cameron,Clinton County,"Kansas City, MO-KS",2025,7341,236541.64178053653
+21739,Campbell,Dunklin County,"Kennett, MO",2025,1489,84306.72177095903
+14766,Canton,Lewis County,"Quincy, IL-MO",2025,2763,182288.07454628122
+23942,Cape Girardeau,Cape Girardeau County,"Cape Girardeau, MO-IL",2025,40977,207613.91794621674
+10712,Carl Junction,Jasper County,"Joplin, MO",2025,8484,253626.23104289337
+3983,Carrollton,Carroll County,Non-Metro / Rural,2025,3499,145410.46987290794
+44464,Carthage,Jasper County,"Joplin, MO",2025,15895,231927.615080438
+51296,Caruthersville,Pemiscot County,Non-Metro / Rural,2025,5211,97186.7803876269
+37784,Cassville,Barry County,Non-Metro / Rural,2025,3301,211864.8100904548
+8131,Center,Ralls County,"Hannibal, MO",2025,542,212673.11945852204
+17359,Centertown,Cole County,"Jefferson City, MO",2025,292,299888.12263847585
+10763,Centerview,Johnson County,"Warrensburg, MO",2025,198,301358.0614670571
+35088,Centralia,Audrain County,"Mexico, MO",2025,4767,264050.53977045993
+44537,Chaffee,Scott County,"Sikeston, MO",2025,3017,154404.87882749582
+55403,Chamois,Osage County,"Jefferson City, MO",2025,387,188337.18894334833
+51354,Charlack,Saint Louis County,"St. Louis, MO-IL",2025,1275,136345.00551635795
+4052,Charleston,Mississippi County,Non-Metro / Rural,2025,4731,83532.53466471049
+51386,Chesterfield,Saint Louis County,"St. Louis, MO-IL",2025,49309,547780.1960075591
+30876,Chilhowee,Johnson County,"Warrensburg, MO",2025,295,269962.03400350513
+30878,Chillicothe,Livingston County,Non-Metro / Rural,2025,9114,184165.52071223533
+51404,Chula,Livingston County,Non-Metro / Rural,2025,203,186432.0989263806
+57155,Clarence,Shelby County,Non-Metro / Rural,2025,720,154189.05423813575
+28280,Clarksburg,Moniteau County,"Jefferson City, MO",2025,257,219630.39448374812
+4111,Clarksdale,DeKalb County,"St. Joseph, MO-KS",2025,244,223170.80758588863
+28301,Clarkson Valley,Saint Louis County,"St. Louis, MO-IL",2025,2540,880147.0819964368
+10841,Clarksville,Pike County,Non-Metro / Rural,2025,377,206087.80193699882
+48842,Claycomo,Clay County,"Kansas City, MO-KS",2025,1362,215771.34334486697
+24101,Clayton,Saint Louis County,"St. Louis, MO-IL",2025,17807,826824.3705018145
+8264,Cleveland,Cass County,"Kansas City, MO-KS",2025,649,314170.03979149956
+48867,Clever,Christian County,"Springfield, MO",2025,3143,262073.3040768339
+35239,Clifton Hill,Randolph County,"Moberly, MO",2025,84,176910.3978160507
+24126,Clinton,Henry County,Non-Metro / Rural,2025,9504,173823.9379727102
+48911,Cole Camp,Benton County,Non-Metro / Rural,2025,1169,208115.18173141344
+50387,Collins,Saint Clair County,Non-Metro / Rural,2025,134,243585.85153549572
+10918,Columbia,Boone County,"Columbia, MO",2025,130851,312191.5960558195
+37996,Concordia,Lafayette County,"Kansas City, MO-KS",2025,2338,182774.5233114491
+31022,Conway,Laclede County,"Springfield, MO",2025,738,247539.42518818565
+172317,Cool Valley,Saint Louis County,"St. Louis, MO-IL",2025,1005,106919.63876381786
+44754,Corder,Lafayette County,"Kansas City, MO-KS",2025,433,192287.28574740546
+51556,Cosby,Andrew County,"St. Joseph, MO-KS",2025,114,338311.12114259775
+24235,Cottleville,Saint Charles County,"St. Louis, MO-IL",2025,6717,483748.2178680496
+396535,Country Club,Andrew County,"St. Joseph, MO-KS",2025,2512,299738.5345460517
+10969,Country Club Hills,Saint Louis County,"St. Louis, MO-IL",2025,998,64897.91375739365
+10973,Cowgill,Caldwell County,"Kansas City, MO-KS",2025,172,312156.8620087459
+17619,Crane,Stone County,Non-Metro / Rural,2025,1509,146377.70266087368
+10987,Creighton,Cass County,"Kansas City, MO-KS",2025,340,261598.75139123574
+29879,Crestwood,Saint Louis County,"St. Louis, MO-IL",2025,12207,332882.82109398936
+51590,Creve Coeur,Saint Louis County,"St. Louis, MO-IL",2025,18480,587400.7732011114
+51593,Crocker,Pulaski County,"Fort Leonard Wood, MO",2025,919,190390.8359940305
+38086,Cross Timbers,Hickory County,Non-Metro / Rural,2025,135,209145.2091535979
+38097,Crystal City,Jefferson County,"St. Louis, MO-IL",2025,4694,219019.18116199048
+28309,Crystal Lake Park,Saint Louis County,"St. Louis, MO-IL",2025,501,611634.1291194122
+38098,Crystal Lakes,Ray County,"Kansas City, MO-KS",2025,395,198089.49281610528
+21646,Cuba,Crawford County,Non-Metro / Rural,2025,3288,209780.48940869657
+57142,Curryville,Pike County,Non-Metro / Rural,2025,201,310778.1849633628
+38138,Dardenne Prairie,Saint Charles County,"St. Louis, MO-IL",2025,15032,466065.8388855513
+44871,De Kalb,Buchanan County,"St. Joseph, MO-KS",2025,243,272785.88106659433
+11056,De Soto,Jefferson County,"St. Louis, MO-IL",2025,6527,233012.06094688748
+28145,Dearborn,Platte County,"Kansas City, MO-KS",2025,518,309833.398963682
+31193,Deepwater,Henry County,Non-Metro / Rural,2025,382,98870.02692401799
+11079,Dellwood,Saint Louis County,"St. Louis, MO-IL",2025,4825,110432.9509246549
+38181,Delta,Cape Girardeau County,"Cape Girardeau, MO-IL",2025,382,124273.81272069817
+14973,Des Arc,Wayne County,Non-Metro / Rural,2025,121,150582.87674659558
+4355,Des Peres,Saint Louis County,"St. Louis, MO-IL",2025,9102,671537.0661294648
+14975,Desloge,Saint Francois County,"Farmington, MO",2025,4819,166716.94654579638
+31222,Dexter,Stoddard County,Non-Metro / Rural,2025,7851,165650.57788812125
+24382,Diamond,Newton County,"Joplin, MO",2025,906,233033.5574215712
+44944,Dixon,Maries County,"Fort Leonard Wood, MO",2025,1222,197302.9620071397
+35652,Doniphan,Ripley County,"Poplar Bluff, MO",2025,1784,150700.26902616036
+172541,Doolittle,Phelps County,"Rolla, MO",2025,565,171279.90875419616
+8706,Drexel,Cass County,"Kansas City, MO-KS",2025,982,306084.39061595517
+8728,Duquesne,Jasper County,"Joplin, MO",2025,2345,248868.36921617747
+51810,East Prairie,Mississippi County,Non-Metro / Rural,2025,2841,119722.33661022248
+49028,Easton,Buchanan County,"St. Joseph, MO-KS",2025,226,339687.26750551036
+49037,Edgar Springs,Phelps County,"Rolla, MO",2025,196,213539.51490218673
+28471,Edgerton,Platte County,"Kansas City, MO-KS",2025,607,226924.24555078967
+11265,Edina,Knox County,Non-Metro / Rural,2025,1014,138530.75210338488
+23219,Edmundson,Saint Louis County,"St. Louis, MO-IL",2025,842,142576.23461012973
+31379,El Dorado Springs,Cedar County,Non-Metro / Rural,2025,3642,169167.12138412768
+45116,Eldon,Miller County,Non-Metro / Rural,2025,4785,188884.38623765612
+51888,Ellington,Reynolds County,Non-Metro / Rural,2025,777,157384.05629692445
+24579,Ellisville,Saint Louis County,"St. Louis, MO-IL",2025,10315,392805.2416938667
+31408,Ellsinore,Carter County,Non-Metro / Rural,2025,421,199359.79884850603
+11314,Elsberry,Lincoln County,"St. Louis, MO-IL",2025,2108,201150.54270113763
+45157,Eminence,Shannon County,Non-Metro / Rural,2025,532,173402.41325779972
+17993,Eolia,Pike County,"St. Louis, MO-IL",2025,482,330149.2118688509
+43641,Eureka,Jefferson County,"St. Louis, MO-IL",2025,13422,399921.7654652316
+11369,Everton,Dade County,Non-Metro / Rural,2025,282,242659.30769264058
+45204,Ewing,Marion County,"Hannibal, MO",2025,394,215579.11481309336
+24638,Excelsior Springs,Clay County,"Kansas City, MO-KS",2025,10819,221919.6156327109
+15312,Exeter,Barry County,Non-Metro / Rural,2025,765,187468.8848078016
+49211,Fair Grove,Greene County,"Springfield, MO",2025,1645,242279.7811843483
+15328,Fair Play,Polk County,"Springfield, MO",2025,452,251690.22669616967
+49216,Fairfax,Atchison County,Non-Metro / Rural,2025,627,145845.0228871037
+24669,Fairview,Newton County,"Joplin, MO",2025,432,229063.73905492332
+31533,Farber,Audrain County,"Mexico, MO",2025,254,111194.70592526945
+45239,Farmington,Saint Francois County,"Farmington, MO",2025,19226,249339.4652779646
+52000,Fayette,Howard County,"Columbia, MO",2025,2848,215448.52106750416
+31546,Fenton,Saint Louis County,"St. Louis, MO-IL",2025,4060,336719.80977905757
+45261,Ferguson,Saint Louis County,"St. Louis, MO-IL",2025,17953,120049.73613326473
+24701,Festus,Jefferson County,"St. Louis, MO-IL",2025,14066,284791.15204171283
+38519,Fillmore,Andrew County,"St. Joseph, MO-KS",2025,180,212644.34136235047
+28758,Fisk,Butler County,"Poplar Bluff, MO",2025,309,120934.74092875898
+55979,Flemington,Hickory County,"Springfield, MO",2025,115,216342.87403971222
+172809,Flint Hill,Saint Charles County,"St. Louis, MO-IL",2025,566,569143.5055480337
+8712,Flordell Hills,Saint Louis County,"St. Louis, MO-IL",2025,702,67672.24656011089
+31580,Florissant,Saint Louis County,"St. Louis, MO-IL",2025,51124,192550.53517504863
+38548,Foley,Lincoln County,"St. Louis, MO-IL",2025,97,246895.2657208532
+4746,Fordland,Webster County,"Springfield, MO",2025,824,263262.63166027743
+45307,Foristell,Saint Charles County,"St. Louis, MO-IL",2025,919,463803.80919671763
+31598,Forsyth,Taney County,"Branson, MO",2025,2752,207149.6213623151
+57186,Frankford,Pike County,Non-Metro / Rural,2025,337,249308.05631180407
+4811,Fredericktown,Madison County,Non-Metro / Rural,2025,4584,169626.93222822255
+52119,Freeburg,Osage County,"Jefferson City, MO",2025,407,286994.73693877633
+31654,Freeman,Cass County,"Kansas City, MO-KS",2025,508,185010.01802242894
+172869,Fremont Hills,Christian County,"Springfield, MO",2025,1098,538653.5753106669
+49040,Frohna,Perry County,Non-Metro / Rural,2025,242,266687.4976487705
+11550,Frontenac,Saint Louis County,"St. Louis, MO-IL",2025,3790,1203305.8232241536
+24815,Fulton,Callaway County,"Jefferson City, MO",2025,12853,232532.0710925562
+52151,Gainesville,Ozark County,Non-Metro / Rural,2025,784,192097.45420119193
+43668,Gallatin,Daviess County,Non-Metro / Rural,2025,1848,251394.8049865706
+52166,Garden City,Cass County,"Kansas City, MO-KS",2025,1617,204711.21254146207
+52199,Gerald,Franklin County,"St. Louis, MO-IL",2025,1350,234105.11894864088
+8482,Gibbs,Adair County,"Kirksville, MO",2025,71,236909.7720988614
+21903,Gideon,New Madrid County,Non-Metro / Rural,2025,709,73276.97994722653
+52216,Gladstone,Clay County,"Kansas City, MO-KS",2025,27497,260412.7167289393
+4898,Glasgow,Howard County,"Columbia, MO",2025,1080,197813.91330853035
+172968,Glenaire,Clay County,"Kansas City, MO-KS",2025,535,274881.4678967087
+45458,Glendale,Saint Louis County,"St. Louis, MO-IL",2025,6060,541233.8771886135
+24898,Golden City,Barton County,"Joplin, MO",2025,659,148278.53088635937
+18326,Goodman,McDonald County,"Joplin, MO",2025,1320,194875.8319232856
+35558,Gower,Clinton County,"Kansas City, MO-KS",2025,1514,298914.1778171563
+4946,Grain Valley,Jackson County,"Kansas City, MO-KS",2025,16908,332259.7095081602
+18349,Granby,Newton County,"Joplin, MO",2025,2113,197835.48619147507
+18357,Grandview,Jackson County,"Kansas City, MO-KS",2025,26653,208685.74750529975
+173029,Grantwood Village,Saint Louis County,"St. Louis, MO-IL",2025,925,552847.9911012856
+31838,Gravois Mills,Morgan County,Non-Metro / Rural,2025,139,347383.6146673063
+38785,Green City,Sullivan County,Non-Metro / Rural,2025,570,93780.29685821984
+173053,Green Park,Saint Louis County,"St. Louis, MO-IL",2025,2670,254962.82390798687
+31847,Green Ridge,Pettis County,"Sedalia, MO",2025,601,263154.7080488657
+11710,Greendale,Saint Louis County,"St. Louis, MO-IL",2025,634,137031.600697419
+24953,Greenfield,Dade County,Non-Metro / Rural,2025,1242,143703.3885609702
+29678,Greenwood,Jackson County,"Kansas City, MO-KS",2025,6315,351421.58602755965
+36599,Guilford,Nodaway County,"Maryville, MO",2025,57,334021.92507068097
+8690,Hale,Livingston County,Non-Metro / Rural,2025,375,230619.2152068019
+5036,Hallsville,Boone County,"Columbia, MO",2025,1742,358375.64822285593
+52385,Hamilton,Caldwell County,"Kansas City, MO-KS",2025,1726,229269.02053897522
+28805,Hanley Hills,Saint Louis County,"St. Louis, MO-IL",2025,1963,81666.70096080718
+49363,Hannibal,Marion County,"Hannibal, MO",2025,16804,170612.88830984585
+15459,Hardin,Ray County,"Kansas City, MO-KS",2025,560,183184.67005159066
+31956,Harrisburg,Boone County,"Columbia, MO",2025,289,390169.7893462787
+31960,Harrisonville,Cass County,"Kansas City, MO-KS",2025,10040,281100.6696381472
+36942,Hartsburg,Boone County,"Columbia, MO",2025,137,423453.79005429853
+28844,Hartville,Wright County,Non-Metro / Rural,2025,627,213012.37823701114
+11836,Hawk Point,Lincoln County,"St. Louis, MO-IL",2025,772,305719.28106911835
+31989,Hazelwood,Saint Louis County,"St. Louis, MO-IL",2025,24849,158432.5094798622
+52486,Henrietta,Ray County,"Kansas City, MO-KS",2025,273,104864.54500114183
+32012,Herculaneum,Jefferson County,"St. Louis, MO-IL",2025,5402,284931.90131154034
+11873,Hermann,Gasconade County,Non-Metro / Rural,2025,2221,229858.03374226193
+5133,Hermitage,Hickory County,Non-Metro / Rural,2025,658,194168.84361592436
+25116,Higbee,Randolph County,"Moberly, MO",2025,442,186704.09908801576
+52507,Higginsville,Lafayette County,"Kansas City, MO-KS",2025,4770,212336.7391670233
+32037,Highlandville,Christian County,"Springfield, MO",2025,974,318892.936899781
+36618,Hillsboro,Jefferson County,"St. Louis, MO-IL",2025,3493,307551.016318761
+173257,Hillsdale,Saint Louis County,"St. Louis, MO-IL",2025,1180,58090.17876495663
+45776,Holcomb,Dunklin County,"Kennett, MO",2025,589,85250.38730524949
+18597,Holden,Johnson County,"Warrensburg, MO",2025,2347,183291.09065547655
+52548,Hollister,Taney County,"Branson, MO",2025,4690,294903.9691974703
+5196,Holt,Clay County,"Kansas City, MO-KS",2025,482,382030.88323168387
+45793,Holts Summit,Callaway County,"Jefferson City, MO",2025,4773,274339.6139043817
+28591,Houston,Texas County,Non-Metro / Rural,2025,2281,176062.88959385373
+42326,Houston Lake,Platte County,"Kansas City, MO-KS",2025,227,228937.58560483798
+25195,Houstonia,Pettis County,"Sedalia, MO",2025,201,251023.98391604403
+28619,Hughesville,Pettis County,"Sedalia, MO",2025,151,261620.87783254465
+12005,Humansville,Polk County,"Springfield, MO",2025,942,181657.49723214973
+18656,Hunnewell,Monroe County,"Hannibal, MO",2025,133,250264.11683857805
+39077,Huntleigh,Saint Louis County,"St. Louis, MO-IL",2025,352,2309964.829110661
+39079,Huntsville,Randolph County,"Moberly, MO",2025,1362,196047.21717678467
+52610,Hurdland,Knox County,Non-Metro / Rural,2025,153,160468.60430173605
+52616,Iberia,Miller County,Non-Metro / Rural,2025,722,198704.11030505938
+12038,Independence,Jackson County,"Kansas City, MO-KS",2025,121675,202697.61931274025
+173387,Indian Point,Stone County,Non-Metro / Rural,2025,580,286574.1103380534
+39111,Innsbrook,Warren County,"St. Louis, MO-IL",2025,653,475366.7430635525
+55934,Ionia,Benton County,"Sedalia, MO",2025,79,269284.28025774093
+173401,Iron Mountain Lake,Saint Francois County,"Farmington, MO",2025,647,65801.88679171885
+22958,Irondale,Washington County,Non-Metro / Rural,2025,371,169313.7022142507
+25268,Ironton,Iron County,"Farmington, MO",2025,1408,125800.28215687827
+12083,Jackson,Cape Girardeau County,"Cape Girardeau, MO-IL",2025,16033,256024.51531573074
+25291,Jacksonville,Randolph County,"Moberly, MO",2025,123,240582.51467813193
+15410,Jameson,Daviess County,Non-Metro / Rural,2025,71,250521.50682429443
+5314,Jamesport,Daviess County,Non-Metro / Rural,2025,570,110193.75174479507
+52683,Jefferson City,Cole County,"Jefferson City, MO",2025,42489,256496.21622393164
+12119,Jennings,Saint Louis County,"St. Louis, MO-IL",2025,13093,73225.7676382572
+5345,Jerico Springs,Cedar County,Non-Metro / Rural,2025,168,244519.86396360365
+56049,Jonesburg,Warren County,"St. Louis, MO-IL",2025,864,269710.57136572455
+45966,Joplin,Jasper County,"Joplin, MO",2025,53930,202207.5209905298
+35729,Kahoka,Clark County,"Fort Madison-Keokuk, IA-IL-MO",2025,1962,142356.4724274663
+18795,Kansas City,Jackson County,"Kansas City, MO-KS",2025,521220,245446.21770215136
+12167,Kearney,Clay County,"Kansas City, MO-KS",2025,11296,388823.9430536854
+12171,Kelso,Scott County,"Sikeston, MO",2025,551,194565.18727296882
+42159,Kennett,Dunklin County,"Kennett, MO",2025,10118,106654.77789396259
+18827,Kidder,Caldwell County,"Kansas City, MO-KS",2025,284,306678.1054780208
+39245,Kimberling City,Stone County,Non-Metro / Rural,2025,2345,315275.0833977612
+55700,King City,Gentry County,Non-Metro / Rural,2025,845,112766.86659121649
+15149,Kingdom City,Callaway County,"Jefferson City, MO",2025,135,323970.68699037976
+12210,Kingston,Caldwell County,"Kansas City, MO-KS",2025,294,265653.24624390854
+25414,Kingsville,Johnson County,"Warrensburg, MO",2025,251,341342.75393514155
+46048,Kirbyville,Taney County,"Branson, MO",2025,205,252878.28085247183
+18843,Kirksville,Adair County,"Kirksville, MO",2025,17863,151677.05285016168
+52791,Kirkwood,Saint Louis County,"St. Louis, MO-IL",2025,29331,445946.596783025
+46058,Knob Noster,Johnson County,"Warrensburg, MO",2025,2997,258477.23365437167
+18856,Knox City,Knox County,Non-Metro / Rural,2025,186,197488.1898205392
+50445,Koshkonong,Oregon County,"West Plains, MO",2025,198,217600.08441696982
+18873,La Grange,Lewis County,"Quincy, IL-MO",2025,806,170891.5143969238
+5466,La Monte,Pettis County,"Sedalia, MO",2025,1018,206465.81656108587
+52825,La Plata,Macon County,Non-Metro / Rural,2025,1251,118385.2507068984
+18884,La Russell,Lawrence County,Non-Metro / Rural,2025,140,277963.9903263544
+52832,Laclede,Linn County,Non-Metro / Rural,2025,300,168737.71503484517
+12249,Laddonia,Audrain County,"Mexico, MO",2025,508,175711.01528594908
+12250,Ladue,Saint Louis County,"St. Louis, MO-IL",2025,8934,1263831.2369997317
+52858,Lake Lotawana,Jackson County,"Kansas City, MO-KS",2025,2756,586937.4943480442
+46109,Lake Ozark,Miller County,Non-Metro / Rural,2025,2247,341023.12977786205
+46118,Lake Tapawingo,Jackson County,"Kansas City, MO-KS",2025,782,421677.6260216848
+18929,Lake Waukomis,Platte County,"Kansas City, MO-KS",2025,941,437260.4853212606
+8523,Lake Winnebago,Cass County,"Kansas City, MO-KS",2025,1869,771640.435384201
+173599,Lakeshire,Saint Louis County,"St. Louis, MO-IL",2025,1510,306193.65282384434
+12295,Lamar,Barton County,Non-Metro / Rural,2025,4337,182348.36506117624
+12326,Lathrop,Clinton County,"Kansas City, MO-KS",2025,2253,274900.88852131815
+5565,Laurie,Morgan County,Non-Metro / Rural,2025,1087,297991.83969748166
+28693,Lawson,Ray County,"Kansas City, MO-KS",2025,2541,291669.52310239535
+8546,Leadington,Saint Francois County,"Farmington, MO",2025,785,147929.04897932927
+46187,Leadwood,Saint Francois County,"Farmington, MO",2025,1158,80165.25739821051
+173646,Leawood,Newton County,"Joplin, MO",2025,643,327017.01029907295
+18976,Lebanon,Laclede County,"Lebanon, MO",2025,15663,220485.74276293608
+39398,Lees Summit,Jackson County,"Kansas City, MO-KS",2025,107514,380204.333869694
+46203,Leeton,Johnson County,"Warrensburg, MO",2025,565,225491.53449040206
+39406,Leonard,Knox County,Non-Metro / Rural,2025,55,217022.17344580116
+23093,Leslie,Franklin County,"St. Louis, MO-IL",2025,156,253127.0979029714
+36061,Lewistown,Lewis County,"Quincy, IL-MO",2025,512,212247.21255309798
+36081,Lexington,Lafayette County,"Kansas City, MO-KS",2025,4568,190709.77803435145
+19009,Liberal,Barton County,Non-Metro / Rural,2025,638,195332.7084141844
+5624,Liberty,Clay County,"Kansas City, MO-KS",2025,31319,318720.5853294125
+56384,Licking,Texas County,Non-Metro / Rural,2025,2958,186533.66653661767
+46246,Lilbourn,New Madrid County,Non-Metro / Rural,2025,906,65504.40169388473
+19022,Lincoln,Benton County,Non-Metro / Rural,2025,1197,201574.9025621668
+15806,Linn,Osage County,"Jefferson City, MO",2025,1453,268412.273850932
+23097,Linn Creek,Camden County,Non-Metro / Rural,2025,223,353066.2562113569
+36109,Linneus,Linn County,Non-Metro / Rural,2025,277,181203.0420392546
+39477,Lockwood,Dade County,Non-Metro / Rural,2025,863,168300.77247228313
+39488,Lohman,Cole County,"Jefferson City, MO",2025,177,371449.24588518805
+25632,Lone Jack,Jackson County,"Kansas City, MO-KS",2025,1896,424594.69733614405
+12454,Louisiana,Pike County,Non-Metro / Rural,2025,3208,138247.55897641453
+53058,Lowry City,Saint Clair County,Non-Metro / Rural,2025,657,147440.50058454732
+15557,Macon,Macon County,Non-Metro / Rural,2025,5532,176889.55086835186
+25706,Madison,Monroe County,"Moberly, MO",2025,535,221105.18862265276
+19165,Malden,Dunklin County,"Kennett, MO",2025,3493,83174.84773617268
+32661,Manchester,Saint Louis County,"St. Louis, MO-IL",2025,18069,366950.850882971
+53144,Mansfield,Wright County,Non-Metro / Rural,2025,1317,214049.69040790977
+5799,Maplewood,Saint Louis County,"St. Louis, MO-IL",2025,8033,262318.3351784204
+46410,Marble Hill,Bollinger County,"Cape Girardeau, MO-IL",2025,1380,130017.04583964816
+39625,Marceline,Chariton County,Non-Metro / Rural,2025,2116,190236.84051618318
+19206,Marionville,Lawrence County,Non-Metro / Rural,2025,2108,224425.90875427824
+173837,Marlborough,Saint Louis County,"St. Louis, MO-IL",2025,2185,231556.06534587455
+39643,Marquand,Madison County,"Cape Girardeau, MO-IL",2025,190,193761.40344479124
+32715,Marshall,Saline County,"Marshall, MO",2025,13766,187024.07741186811
+12585,Marshfield,Webster County,"Springfield, MO",2025,8078,249550.9992842231
+53177,Marston,New Madrid County,Non-Metro / Rural,2025,362,75949.7205705506
+39648,Marthasville,Warren County,"St. Louis, MO-IL",2025,1302,340658.3405689451
+12595,Martinsburg,Audrain County,"Mexico, MO",2025,256,217171.65127096444
+42716,Maryland Heights,Saint Louis County,"St. Louis, MO-IL",2025,27559,250318.2128186425
+15671,Maryville,Nodaway County,"Maryville, MO",2025,10092,218357.09409746577
+9769,Matthews,New Madrid County,Non-Metro / Rural,2025,493,130487.66240449483
+9770,Maysville,DeKalb County,"St. Joseph, MO-KS",2025,1071,218391.95842724037
+46455,Mayview,Lafayette County,"Kansas City, MO-KS",2025,218,233007.23467836736
+12652,McFall,Gentry County,Non-Metro / Rural,2025,120,126895.3870146066
+22396,Meadville,Linn County,Non-Metro / Rural,2025,413,193963.0196240125
+46498,Memphis,Scotland County,Non-Metro / Rural,2025,1762,112866.3798646852
+12695,Meta,Maries County,"Jefferson City, MO",2025,182,242234.81807011363
+25874,Mexico,Audrain County,"Mexico, MO",2025,11558,169708.40262368394
+22488,Middletown,Pike County,Non-Metro / Rural,2025,169,305387.6729927656
+12720,Milan,Sullivan County,Non-Metro / Rural,2025,1742,112207.96920641289
+53331,Miller,Lawrence County,Non-Metro / Rural,2025,715,195890.3434032664
+9139,Milo,Vernon County,Non-Metro / Rural,2025,62,262763.2302013643
+19401,Mineral Point,Washington County,Non-Metro / Rural,2025,235,178426.06113615655
+12777,Moberly,Randolph County,"Moberly, MO",2025,13719,153888.36762538474
+46571,Mokane,Callaway County,"Jefferson City, MO",2025,188,270284.7842206914
+32914,Moline Acres,Saint Louis County,"St. Louis, MO-IL",2025,2093,94845.57218654624
+39829,Monett,Barry County,Non-Metro / Rural,2025,10248,184340.10191563657
+25950,Monroe City,Marion County,"Hannibal, MO",2025,2714,182329.74502521366
+25958,Montgomery City,Montgomery County,"Jefferson City, MO",2025,2782,220199.70209686455
+35751,Montrose,Henry County,"Kansas City, MO-KS",2025,392,284985.65876433655
+43584,Morehouse,New Madrid County,Non-Metro / Rural,2025,681,76242.09308271961
+12835,Morrison,Gasconade County,"Jefferson City, MO",2025,94,209809.55347550358
+25990,Morrisville,Polk County,"Springfield, MO",2025,398,288939.3822993909
+56130,Moscow Mills,Lincoln County,"St. Louis, MO-IL",2025,4388,330519.4131606579
+15537,Moundville,Vernon County,Non-Metro / Rural,2025,77,206958.41226669485
+53444,Mount Vernon,Lawrence County,Non-Metro / Rural,2025,4835,227607.22391499372
+15568,Mountain Grove,Wright County,Non-Metro / Rural,2025,4754,201705.42364757127
+46651,Mountain View,Howell County,"West Plains, MO",2025,2661,186862.63481864496
+39933,Napoleon,Lafayette County,"Kansas City, MO-KS",2025,210,290790.2546275948
+39951,Neelyville,Butler County,"Poplar Bluff, MO",2025,312,129285.43366598636
+50264,Nelson,Saline County,"Marshall, MO",2025,149,270829.02115156845
+28986,Neosho,Newton County,"Joplin, MO",2025,14078,218407.831613004
+6136,Nevada,Vernon County,Non-Metro / Rural,2025,8404,151809.38454914532
+35916,New Bloomfield,Callaway County,"Jefferson City, MO",2025,747,310443.5336675057
+8950,New Cambria,Macon County,Non-Metro / Rural,2025,150,241458.70568569467
+53528,New Florence,Montgomery County,Non-Metro / Rural,2025,650,220245.07720720812
+53530,New Franklin,Howard County,"Columbia, MO",2025,1026,196161.32291475427
+26096,New Hampton,Harrison County,Non-Metro / Rural,2025,228,108703.12888264102
+46716,New Haven,Franklin County,"St. Louis, MO-IL",2025,2397,239884.16493193875
+26106,New London,Ralls County,"Hannibal, MO",2025,981,260628.49354952318
+33081,New Madrid,New Madrid County,Non-Metro / Rural,2025,2586,109376.91649561566
+53561,Newburg,Phelps County,"Rolla, MO",2025,331,82837.23477170253
+6199,Newtown,Putnam County,Non-Metro / Rural,2025,110,223752.6726504468
+53575,Niangua,Webster County,"Springfield, MO",2025,425,244247.36530014174
+26158,Nixa,Christian County,"Springfield, MO",2025,26597,316318.53638024715
+26159,Noel,McDonald County,Non-Metro / Rural,2025,2181,165412.26479616438
+26162,Norborne,Carroll County,"Kansas City, MO-KS",2025,632,171108.59501628138
+174201,Normandy,Saint Louis County,"St. Louis, MO-IL",2025,4380,97251.97797065765
+53611,North Kansas City,Clay County,"Kansas City, MO-KS",2025,5613,246707.5955599996
+272618,Northmoor,Platte County,"Kansas City, MO-KS",2025,294,221678.24882277753
+26219,Northwoods,Saint Louis County,"St. Louis, MO-IL",2025,3579,90397.70037709635
+15820,Norwood,Wright County,Non-Metro / Rural,2025,621,226250.93209428084
+53644,Novinger,Adair County,"Kirksville, MO",2025,386,162975.60728843478
+33203,Oak Grove,Jackson County,"Kansas City, MO-KS",2025,9370,285643.7202242188
+9115,Oak Ridge,Cape Girardeau County,"Cape Girardeau, MO-IL",2025,239,258002.8462284199
+53663,Oakland,Saint Louis County,"St. Louis, MO-IL",2025,1372,457328.2407659491
+174263,Oakwood Park,Clay County,"Kansas City, MO-KS",2025,197,262686.10457345756
+36174,Odessa,Lafayette County,"Kansas City, MO-KS",2025,5721,242249.3840275221
+6303,Old Monroe,Lincoln County,"St. Louis, MO-IL",2025,281,320947.5177378924
+26293,Olean,Miller County,Non-Metro / Rural,2025,121,243113.81316595201
+19756,Olivette,Saint Louis County,"St. Louis, MO-IL",2025,8937,478921.732092061
+13103,Olympian Village,Jefferson County,"St. Louis, MO-IL",2025,710,183204.4592776989
+26309,Oran,Scott County,"Sikeston, MO",2025,1195,150229.0024236237
+42597,Oronogo,Jasper County,"Joplin, MO",2025,3204,244186.78171736855
+33259,Orrick,Ray County,"Kansas City, MO-KS",2025,740,222313.5301650381
+15545,Osage Beach,Camden County,Non-Metro / Rural,2025,5079,350924.46625784296
+33266,Osborn,DeKalb County,"St. Joseph, MO-KS",2025,369,203491.93196316055
+46927,Osceola,Saint Clair County,Non-Metro / Rural,2025,1012,127836.14261970583
+15549,Otterville,Cooper County,"Columbia, MO",2025,450,223746.78065289915
+19798,Overland,Saint Louis County,"St. Louis, MO-IL",2025,15474,150806.75346657776
+29758,Owensville,Gasconade County,Non-Metro / Rural,2025,2802,226368.83735899243
+8878,Ozark,Christian County,"Springfield, MO",2025,23544,316148.2221202386
+46952,Pacific,Franklin County,"St. Louis, MO-IL",2025,7824,236520.76479588728
+13157,Pagedale,Saint Louis County,"St. Louis, MO-IL",2025,2511,71258.50689706566
+8901,Palmyra,Marion County,"Hannibal, MO",2025,3649,233494.42970039917
+53807,Paris,Monroe County,Non-Metro / Rural,2025,1178,185750.84386457084
+26393,Park Hills,Saint Francois County,"Farmington, MO",2025,8753,155086.78206671216
+15634,Parkville,Platte County,"Kansas City, MO-KS",2025,9093,564858.4465732484
+47005,Parma,Stoddard County,Non-Metro / Rural,2025,506,63091.15939237713
+35899,Parnell,Nodaway County,"Maryville, MO",2025,129,219201.87567842673
+56238,Pasadena Hills,Saint Louis County,"St. Louis, MO-IL",2025,881,258006.28807269488
+33342,Pasadena Park,Saint Louis County,"St. Louis, MO-IL",2025,426,153080.27048967552
+22328,Pattonsburg,Daviess County,"St. Joseph, MO-KS",2025,341,272680.37229845516
+6452,Peculiar,Cass County,"Kansas City, MO-KS",2025,6365,346358.2634632814
+6472,Perry,Ralls County,"Hannibal, MO",2025,686,223219.6114952052
+40314,Perryville,Perry County,"Cape Girardeau, MO-IL",2025,8593,217346.44568664953
+9023,Pevely,Jefferson County,"St. Louis, MO-IL",2025,6239,262139.33400336906
+36025,Phillipsburg,Laclede County,"Lebanon, MO",2025,166,233786.56567990835
+13280,Piedmont,Wayne County,Non-Metro / Rural,2025,1862,123925.6791587666
+49672,Pierce City,Lawrence County,Non-Metro / Rural,2025,1275,136119.62989621988
+19941,Pilot Grove,Cooper County,"Columbia, MO",2025,693,237860.59462553146
+47098,Pilot Knob,Iron County,Non-Metro / Rural,2025,701,125108.67841995182
+13293,Pine Lawn,Saint Louis County,"St. Louis, MO-IL",2025,2682,63502.64129360504
+36924,Pineville,McDonald County,Non-Metro / Rural,2025,836,261565.61875673608
+33452,Plato,Texas County,"Fort Leonard Wood, MO",2025,91,211910.43030863928
+26540,Platte City,Platte County,"Kansas City, MO-KS",2025,4911,396241.6528416022
+15802,Platte Woods,Platte County,"Kansas City, MO-KS",2025,395,374057.58467762126
+26542,Plattsburg,Clinton County,"Kansas City, MO-KS",2025,2239,271431.65517294937
+16581,Pleasant Hill,Cass County,"Kansas City, MO-KS",2025,8956,351128.79253065685
+36104,Pleasant Hope,Greene County,"Springfield, MO",2025,694,268577.7518939025
+19990,Pleasant Valley,Clay County,"Kansas City, MO-KS",2025,2747,252566.1943318308
+53951,Polo,Caldwell County,"Kansas City, MO-KS",2025,508,275833.9899579696
+29212,Poplar Bluff,Butler County,"Poplar Bluff, MO",2025,16295,159369.36582136524
+26596,Portage des Sioux,Saint Charles County,"St. Louis, MO-IL",2025,321,225501.8383781312
+43690,Portageville,New Madrid County,Non-Metro / Rural,2025,2702,122878.00362799068
+33514,Potosi,Washington County,Non-Metro / Rural,2025,2568,188005.987368447
+50184,Prairie Home,Cooper County,"Columbia, MO",2025,268,269682.23889376904
+20056,Preston,Hickory County,Non-Metro / Rural,2025,181,187170.76568530363
+22950,Princeton,Mercer County,Non-Metro / Rural,2025,970,126593.11928939585
+6644,Purdin,Linn County,Non-Metro / Rural,2025,138,183318.90976785563
+47253,Purdy,Barry County,Non-Metro / Rural,2025,1062,206065.10367522508
+54028,Puxico,Stoddard County,"Cape Girardeau, MO-IL",2025,867,166233.6441295094
+54042,Qulin,Butler County,"Poplar Bluff, MO",2025,466,135904.333940326
+13449,Ravenwood,Nodaway County,"Maryville, MO",2025,409,229822.27890057574
+42635,Raymondville,Texas County,Non-Metro / Rural,2025,371,178974.87224990033
+33599,Raymore,Cass County,"Kansas City, MO-KS",2025,26633,343101.58274393185
+13453,Raytown,Jackson County,"Kansas City, MO-KS",2025,29154,202479.00131570082
+26700,Rea,Andrew County,"St. Joseph, MO-KS",2025,45,258390.56735658352
+47325,Reeds,Jasper County,"Joplin, MO",2025,91,283263.80351592676
+26722,Reeds Spring,Stone County,"Branson, MO",2025,1223,279775.19078574487
+33633,Republic,Greene County,"Springfield, MO",2025,22404,263005.14740904566
+33652,Rich Hill,Bates County,"Kansas City, MO-KS",2025,1264,171835.64294011053
+47374,Richland,Pulaski County,"Fort Leonard Wood, MO",2025,1737,199583.01600662022
+47377,Richmond,Ray County,"Kansas City, MO-KS",2025,5968,227572.50044295474
+56247,Richmond Heights,Saint Louis County,"St. Louis, MO-IL",2025,9093,382013.8383202644
+6774,Risco,New Madrid County,Non-Metro / Rural,2025,261,75944.70943849585
+13536,Riverside,Platte County,"Kansas City, MO-KS",2025,4581,451370.0193706684
+396047,Riverview,Saint Louis County,"St. Louis, MO-IL",2025,2330,72308.26444982449
+28973,Rocheport,Boone County,"Columbia, MO",2025,211,459329.4986045692
+47419,Rock Hill,Saint Louis County,"St. Louis, MO-IL",2025,4668,296408.18450823316
+47422,Rock Port,Atchison County,Non-Metro / Rural,2025,1246,158838.61066707145
+20210,Rockaway Beach,Taney County,"Branson, MO",2025,816,168994.7664523402
+13562,Rockville,Saint Clair County,"Kansas City, MO-KS",2025,141,153264.2873398534
+29063,Rogersville,Greene County,"Springfield, MO",2025,5754,315021.65558034607
+47440,Rolla,Phelps County,"Rolla, MO",2025,20588,230756.24934518107
+36441,Rosebud,Gasconade County,"St. Louis, MO-IL",2025,396,251265.05032147406
+47453,Rosendale,Andrew County,"St. Joseph, MO-KS",2025,124,243064.1920424347
+47486,Russellville,Cole County,"Jefferson City, MO",2025,806,283522.11579516245
+6878,Saginaw,Newton County,"Joplin, MO",2025,333,224329.96072286178
+22889,Saint Ann,Saint Louis County,"St. Louis, MO-IL",2025,12617,157527.27750752607
+40689,Saint Charles,Saint Charles County,"St. Louis, MO-IL",2025,72561,336967.70597542304
+13652,Saint Clair,Franklin County,"St. Louis, MO-IL",2025,4813,204063.44933665966
+54271,Saint Elizabeth,Miller County,Non-Metro / Rural,2025,435,296909.1145829837
+20304,Saint James,Phelps County,"Rolla, MO",2025,3925,220283.82202646762
+13662,Saint John,Saint Louis County,"St. Louis, MO-IL",2025,6441,132154.35094969574
+40704,Saint Joseph,Buchanan County,"St. Joseph, MO-KS",2025,71001,172076.4302255418
+6891,Saint Louis,Saint Louis City,"St. Louis, MO-IL",2025,278144,181408.15700385525
+56867,Saint Martins,Cole County,"Jefferson City, MO",2025,1242,281754.9873469832
+16222,Saint Mary,Sainte Genevieve County,Non-Metro / Rural,2025,312,246642.93037097217
+40711,Saint Paul,Saint Charles County,"St. Louis, MO-IL",2025,3849,498833.1747710121
+47526,Saint Peters,Saint Charles County,"St. Louis, MO-IL",2025,61479,308407.8917238258
+47528,Saint Robert,Pulaski County,"Fort Leonard Wood, MO",2025,5602,231460.8371951518
+56938,Saint Thomas,Cole County,"Jefferson City, MO",2025,231,334573.4155100409
+50159,Sainte Genevieve,Sainte Genevieve County,Non-Metro / Rural,2025,5065,232886.44988400376
+9534,Salem,Dent County,Non-Metro / Rural,2025,4674,176883.04637343445
+13682,Salisbury,Chariton County,Non-Metro / Rural,2025,1564,154806.03037251745
+36730,Sarcoxie,Jasper County,"Joplin, MO",2025,1429,255563.0363695879
+33882,Savannah,Andrew County,"St. Joseph, MO-KS",2025,5107,251437.20068153468
+26987,Schell City,Vernon County,Non-Metro / Rural,2025,230,226168.74094479586
+40793,Scott City,Scott County,"Sikeston, MO",2025,4593,172345.89335855094
+54364,Sedalia,Pettis County,"Sedalia, MO",2025,22621,180752.38438953788
+33933,Seligman,Barry County,Non-Metro / Rural,2025,951,210762.42955924958
+40823,Senath,Dunklin County,"Kennett, MO",2025,1504,85318.82088769194
+43119,Seneca,Newton County,"Joplin, MO",2025,2343,213312.5428067053
+40840,Seymour,Webster County,"Springfield, MO",2025,1960,240128.43044166223
+27062,Shelbina,Shelby County,Non-Metro / Rural,2025,1550,159165.7704861684
+40870,Shelbyville,Shelby County,Non-Metro / Rural,2025,497,216397.47200380173
+36701,Sheldon,Vernon County,Non-Metro / Rural,2025,438,168691.9904027139
+174953,Shoal Creek Drive,Newton County,"Joplin, MO",2025,381,174055.43501222637
+27095,Shrewsbury,Saint Louis County,"St. Louis, MO-IL",2025,6231,282293.66532848997
+56745,Sibley,Jackson County,"Kansas City, MO-KS",2025,324,194210.13315070444
+40903,Sikeston,Scott County,"Sikeston, MO",2025,15983,162108.93614249164
+33991,Silex,Lincoln County,"St. Louis, MO-IL",2025,266,365981.57005324896
+13871,Slater,Saline County,"Marshall, MO",2025,1824,140755.5143702669
+27130,Smithton,Pettis County,"Sedalia, MO",2025,508,234409.52148769062
+13881,Smithville,Clay County,"Kansas City, MO-KS",2025,11160,367489.36905339645
+34082,Sparta,Christian County,"Springfield, MO",2025,1953,254869.11212305527
+47791,Spickard,Grundy County,Non-Metro / Rural,2025,220,211463.2548140709
+7222,Springfield,Greene County,"Springfield, MO",2025,169847,236941.37246986528
+56510,Stanberry,Gentry County,Non-Metro / Rural,2025,1168,97637.55258154758
+7248,Steele,Pemiscot County,Non-Metro / Rural,2025,1692,124336.35321589182
+34129,Steelville,Crawford County,Non-Metro / Rural,2025,1447,188822.94634946683
+34130,Stella,McDonald County,"Joplin, MO",2025,170,266863.432205687
+41063,Stewartsville,Clinton County,"Kansas City, MO-KS",2025,723,255124.68662255397
+54568,Stockton,Cedar County,Non-Metro / Rural,2025,1825,245450.49992715567
+7275,Stotts City,Lawrence County,Non-Metro / Rural,2025,175,225828.82242944484
+54580,Stoutland,Camden County,"Lebanon, MO",2025,207,213600.16701836538
+54582,Stover,Morgan County,Non-Metro / Rural,2025,1064,209416.72238484057
+54584,Strafford,Greene County,"Springfield, MO",2025,2789,297223.00256799045
+7296,Sturgeon,Boone County,"Columbia, MO",2025,957,334981.486558363
+27305,Sugar Creek,Jackson County,"Kansas City, MO-KS",2025,3209,167641.30312211034
+20702,Sullivan,Franklin County,"St. Louis, MO-IL",2025,6942,198555.65707432883
+47896,Summersville,Shannon County,Non-Metro / Rural,2025,474,201035.64233279656
+7324,Sunrise Beach,Camden County,Non-Metro / Rural,2025,533,405658.7170172942
+34185,Sunset Hills,Saint Louis County,"St. Louis, MO-IL",2025,9075,588087.4357927875
+22682,Sweet Springs,Saline County,"Marshall, MO",2025,1323,161083.12641378323
+175160,Sycamore Hills,Saint Louis County,"St. Louis, MO-IL",2025,546,165294.07169858713
+14086,Taneyville,Taney County,"Branson, MO",2025,270,216083.41624962993
+22721,Taos,Cole County,"Jefferson City, MO",2025,1175,265097.57288540615
+22969,Tarkio,Atchison County,Non-Metro / Rural,2025,1478,127212.90658640063
+54678,Thayer,Oregon County,Non-Metro / Rural,2025,1898,139889.2586334782
+41243,Tina,Carroll County,Non-Metro / Rural,2025,138,140427.5651522212
+29496,Tipton,Moniteau County,"Jefferson City, MO",2025,2766,190932.341427399
+14169,Town and Country,Saint Louis County,"St. Louis, MO-IL",2025,11619,1098592.443451055
+27463,Trenton,Grundy County,Non-Metro / Rural,2025,5557,106524.87286367889
+27470,Trimble,Clinton County,"Kansas City, MO-KS",2025,659,352234.345939999
+41291,Troy,Lincoln County,"St. Louis, MO-IL",2025,15201,300419.97285486606
+16171,Truesdale,Warren County,"St. Louis, MO-IL",2025,1054,295296.6640852047
+54752,Truxton,Lincoln County,"St. Louis, MO-IL",2025,71,312070.4963686055
+41310,Turney,Clinton County,"Kansas City, MO-KS",2025,125,379977.4723334594
+27490,Tuscumbia,Miller County,Non-Metro / Rural,2025,192,220034.2624118474
+48068,Twin Oaks,Saint Louis County,"St. Louis, MO-IL",2025,583,267502.025452692
+54786,Union,Franklin County,"St. Louis, MO-IL",2025,13445,245971.55708936354
+41340,Union Star,DeKalb County,"St. Joseph, MO-KS",2025,372,176248.33194492184
+54796,Unionville,Putnam County,Non-Metro / Rural,2025,1663,182538.89933133812
+54801,University City,Saint Louis County,"St. Louis, MO-IL",2025,34657,260637.05587100083
+175314,Uplands Park,Saint Louis County,"St. Louis, MO-IL",2025,305,88124.1273559424
+34508,Urbana,Dallas County,"Springfield, MO",2025,411,232614.3476934846
+29330,Utica,Livingston County,Non-Metro / Rural,2025,221,117448.58851431415
+41457,Valley Park,Saint Louis County,"St. Louis, MO-IL",2025,6767,287709.3189015857
+34529,Van Buren,Carter County,Non-Metro / Rural,2025,792,178512.7757406131
+41468,Vandalia,Audrain County,"Mexico, MO",2025,3029,119717.45011019996
+36283,Velda Village Hills,Saint Louis County,"St. Louis, MO-IL",2025,851,69681.46047737615
+34550,Verona,Lawrence County,Non-Metro / Rural,2025,520,249556.02257493298
+14380,Versailles,Morgan County,Non-Metro / Rural,2025,2713,232575.79484727338
+16014,Viburnum,Iron County,Non-Metro / Rural,2025,652,131841.4587399182
+34563,Vienna,Maries County,"Jefferson City, MO",2025,572,214034.8944397994
+36326,Village of Four Seasons,Camden County,Non-Metro / Rural,2025,2473,392901.7060430907
+27713,Vinita Park,Saint Louis County,"St. Louis, MO-IL",2025,1923,96717.2264306149
+50010,Walker,Vernon County,Non-Metro / Rural,2025,199,194172.80656562955
+48313,Walnut Grove,Greene County,"Springfield, MO",2025,636,284704.0487687165
+48328,Wardsville,Cole County,"Jefferson City, MO",2025,1667,341339.2792338918
+21161,Warrensburg,Johnson County,"Warrensburg, MO",2025,20283,259379.17546468283
+36408,Warrenton,Warren County,"St. Louis, MO-IL",2025,9667,295451.6650791378
+50206,Warsaw,Benton County,Non-Metro / Rural,2025,2338,178657.5636157595
+41565,Warson Woods,Saint Louis County,"St. Louis, MO-IL",2025,1990,656119.3146047933
+16110,Washburn,Barry County,Non-Metro / Rural,2025,408,255995.64598573625
+14481,Washington,Franklin County,"St. Louis, MO-IL",2025,15906,291629.99827141984
+43234,Waverly,Carroll County,"Kansas City, MO-KS",2025,819,186082.44569766498
+29672,Wayland,Clark County,"Fort Madison-Keokuk, IA-IL-MO",2025,399,178788.7404744114
+27810,Waynesville,Pulaski County,"Fort Leonard Wood, MO",2025,5558,238868.092749447
+34697,Weatherby Lake,Platte County,"Kansas City, MO-KS",2025,2139,577292.3829198991
+27814,Weaubleau,Hickory County,Non-Metro / Rural,2025,415,123710.12981028162
+27817,Webb City,Jasper County,"Joplin, MO",2025,13459,222125.8280040186
+21186,Webster Groves,Saint Louis County,"St. Louis, MO-IL",2025,23450,424623.16817852453
+14515,Weldon Spring,Saint Charles County,"St. Louis, MO-IL",2025,5301,606816.8470882027
+27829,Wellington,Lafayette County,"Kansas City, MO-KS",2025,761,212891.0505313773
+27833,Wellston,Saint Louis County,"St. Louis, MO-IL",2025,1580,57799.82284010297
+48396,Wellsville,Montgomery County,"Mexico, MO",2025,1012,191139.05103585203
+41617,Wentworth,Newton County,"Joplin, MO",2025,104,302035.7419395764
+34718,Wentzville,Saint Charles County,"St. Louis, MO-IL",2025,49495,395299.0785564392
+36506,West Alton,Saint Charles County,"St. Louis, MO-IL",2025,354,200056.79877454884
+14570,West Plains,Howell County,"West Plains, MO",2025,12780,210743.5425074981
+43335,Weston,Platte County,"Kansas City, MO-KS",2025,1855,366762.208329663
+175465,Westwood,Saint Louis County,"St. Louis, MO-IL",2025,308,1262329.1494170271
+48467,Wheaton,Barry County,Non-Metro / Rural,2025,693,207654.4468468468
+27919,Wheeling,Livingston County,Non-Metro / Rural,2025,230,224196.21241029815
+175497,Wilbur Park,Saint Louis County,"St. Louis, MO-IL",2025,425,223439.83633639629
+15924,Wildwood,Saint Louis County,"St. Louis, MO-IL",2025,34955,558303.5011261062
+7939,Willard,Greene County,"Springfield, MO",2025,6904,266449.1812809051
+41718,Williamsville,Wayne County,"Poplar Bluff, MO",2025,274,185738.08376041625
+34855,Willow Springs,Howell County,"West Plains, MO",2025,2211,183968.95756139155
+21330,Winchester,Saint Louis County,"St. Louis, MO-IL",2025,1400,234788.18523628605
+36289,Windsor,Henry County,"Sedalia, MO",2025,2869,171843.94817414155
+7972,Winfield,Lincoln County,"St. Louis, MO-IL",2025,1660,267444.1922297021
+27989,Winona,Shannon County,Non-Metro / Rural,2025,987,148859.5115951521
+49913,Winston,Daviess County,Non-Metro / Rural,2025,232,221430.19888078942
+21361,Wood Heights,Ray County,"Kansas City, MO-KS",2025,745,239281.99467345452
+8008,Woodson Terrace,Saint Louis County,"St. Louis, MO-IL",2025,3902,141824.4941009908
+28034,Wright City,Warren County,"St. Louis, MO-IL",2025,5854,301390.2366741312
